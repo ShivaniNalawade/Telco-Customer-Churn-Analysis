@@ -41,6 +41,7 @@ The company seeks to identify which performance indicators require improvement a
 5. Implement targeted retention campaigns for high-risk customer groups.
 
 8️⃣ Dashboard Preview
+
 https://github.com/ShivaniNalawade/Telco-Customer-Churn-Analysis/blob/main/Telco%20Customer%20Churn%20Analysis.png
 
 9️⃣ Technical Skills Used
