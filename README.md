@@ -8,6 +8,7 @@ Telco Customer Churn Analysis – Power BI Dashboard
 This Power BI project analyzes customer churn in a Telco company to identify key drivers of revenue loss. An interactive dashboard was built using Power Query and DAX to monitor churn rate, revenue impact, and customer behavior across contracts, payment methods, and tenure segments.
 
 3️⃣ Business Problem
+
 The organization is currently facing a significant level of customer churn, resulting in revenue loss and reduced customer retention. Management aims to analyze customer behavior across multiple KPIs to understand the key factors contributing to churn.
 The company seeks to identify which performance indicators require improvement and determine effective strategies or plans to reduce churn. By analyzing customer segments, contract types, payment methods, internet services, and tenure patterns, the organization aims to develop data-driven solutions to improve retention and overall business performance.
 
